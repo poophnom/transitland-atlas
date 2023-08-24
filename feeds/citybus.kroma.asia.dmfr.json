@@ -5,12 +5,12 @@
       "id": "f-w64-phnompenh~citybus",
       "spec": "gtfs",
       "urls": {
-        "static_current": "https://citybus.kroma.asia/uploads/gtfs/ppcitybus.zip"
+        "static_current": "https://citybus.kroma.asia/uploads/gtfs/ppcitybus.gtfs.zip"
       },
       "operators": [
         {
           "onestop_id": "o-w64-phnompenh~citybus",
-          "name": "Phnom Penh City Bus - CBA",
+          "name": "Phnom Penh City Bus",
           "website": "https://citybus.kroma.asia/",
           "associated_feeds": [
             {
